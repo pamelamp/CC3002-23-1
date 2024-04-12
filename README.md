@@ -9,11 +9,13 @@ Context
 -------
 
 This project's goal is to create a (simplified) clone of the
-[_Gwent_](https://www.playgwent.com/en)card game developed by [_CD PROJEKT RED_](https://cdprojektred.com/en/)
+[_Gwent_](https://www.playgwent.com/en) card game developed by [_CD PROJEKT RED_](https://cdprojektred.com/en/)
 
 ---
 
-**The rest of the documentation is left for the users of this template to complete**
+** Este proyecto fue realizado durante el curso CC3002: Metodologías de Diseño y Programación en el 
+semestre de Otoño (Marzo a Julio) del año 2023 ** 
+El código se encuentra inconcluso, y la última modificación fue registrada el día 19 de Julio de 2023.
 
 # UML hasta la entrega final de la Tarea 2
 ![UML](extras/UML_tarea_2.png)
