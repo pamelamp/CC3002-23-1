@@ -14,6 +14,7 @@ This project's goal is to create a (simplified) clone of the
 ---
 
 **Este proyecto fue realizado durante el curso CC3002: Metodologías de Diseño y Programación en el semestre de Otoño (Marzo a Julio) del año 2023**
+
 El código se encuentra inconcluso, y la última modificación fue registrada el día 19 de Julio de 2023.
 
 # UML hasta la entrega final de la Tarea 2
